@@ -1,4 +1,2 @@
-JAI SHREE RAM
-HAR HAR MAHADEV
+Automating E-commerce user interactions using Selenium with Python.
 
-ok
