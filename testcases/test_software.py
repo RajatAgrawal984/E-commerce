@@ -116,6 +116,8 @@ class Testsoftware(BaseClass):
         self.driver.find_element(By.XPATH, "//div[@class='max-571 mt-66']/a[2]").click()
         time.sleep(5)
 
+        time.sleep(10)
+
 
 
 
